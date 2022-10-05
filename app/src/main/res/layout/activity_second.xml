@@ -6,7 +6,7 @@
     android:fitsSystemWindows="true"
 
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent" >
 
     <com.google.android.material.appbar.AppBarLayout
         android:id="@+id/appbar"
@@ -23,6 +23,6 @@
             </androidx.appcompat.widget.Toolbar>
 
     </com.google.android.material.appbar.AppBarLayout>
-    <include layout="@layout/content_second"/>
+    <include layout="@layout/content_second" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

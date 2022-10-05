@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">My Fisrt Task</string>
     <string name="user_name">User_Name</string>
-    <string name="button_name">Click Here!</string>
+    <string name="button_name">Click Here</string>
 </resources>
